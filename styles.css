@@ -325,14 +325,14 @@ z-index: 2;
     transform: scale(1.07);
     filter: blur(5px)
 }
-.project:hover .project__description{
+.project:hover .project__description {
     opacity: 1;
     transform: translateY(-50%);
 }
 .project__list {
     padding-top: 40px;
 }
-.project__description{
+.project__description {
     position:absolute;
     top: 50%;
     left: 90px; 
@@ -348,7 +348,7 @@ z-index: 2;
 .project__description--para {
 margin: 16px 0;
 }
-.project__description--link{
+.project__description--link {
     font-size: 20px;
     margin-right: 16px;
     text-decoration: none;
@@ -358,7 +358,7 @@ margin: 16px 0;
 .project__description--para,
 .project__description--link {
     text-align: left;
-    color: #fff;
+    color: #100101;
 }
 /* FOOTER */
 
